@@ -1,4 +1,4 @@
-![Screenshot (27)](https://github.com/premjivip/html.css/assets/143831886/f50ff927-6322-4c3f-a39c-2fbc564bd779)## OBJECTIVE:
+## OBJECTIVE:
 To Create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
 ## DESCRIPTION:
