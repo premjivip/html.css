@@ -195,5 +195,5 @@ page.html
 </html>
 ```
 ## OUTPUT:
-[Screenshot (27)](https://github.com/premjivip/html.css/assets/143831886/fe16d648-cbd6-4e38-9526-b60339f67143)
+![Screenshot (27)](https://github.com/premjivip/html.css/assets/143831886/f50ff927-6322-4c3f-a39c-2fbc564bd779)
 
