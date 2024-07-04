@@ -195,4 +195,4 @@ page.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-07-03 144623.png>)
+https://github.com/premjivip/html.css/blob/main/Screenshot%20(27).png
