@@ -195,4 +195,5 @@ page.html
 </html>
 ```
 ## OUTPUT:
-https://github.com/premjivip/html.css/blob/main/Screenshot%20(27).png
+![Uploading Screenshot (27).png…]()
+
